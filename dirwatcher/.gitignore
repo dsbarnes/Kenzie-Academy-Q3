@@ -1,0 +1,6 @@
+*.log
+.git/
+.vscode/
+.DS_store
+watchme
+hide
